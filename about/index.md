@@ -6,7 +6,7 @@ date: 2016-09-25
 comments: false
 ---
     
-<center><b>Solv3</b></a> is ...</center>
+<center><b>Solv3</b> is ...</center>
 
 ## About Us
 * Content to be filled in

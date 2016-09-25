@@ -1,6 +1,11 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
+title: Contact Us
+excerpt: ""
 comments: false
 ---
+
+# Contact information
+* google url
+* mail id
+* other info

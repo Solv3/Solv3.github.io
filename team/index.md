@@ -1,6 +1,8 @@
 ---
 layout: project
 title: Our team
-excerpt: "A List of Projects"
+excerpt: ""
 comments: false
 ---
+
+## List of team members and pictures
