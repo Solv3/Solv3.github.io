@@ -44,14 +44,14 @@ github:             Solv3
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           company/solv3-consulting-pvt-ltd
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-youtube:           username
+#youtube:           username
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
@@ -59,6 +59,52 @@ youtube:           username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+
+# Team names, titles and social links
+people:
+- name: Lakshmi Venkat
+  pic: 1
+  position: Chairman & Managing Director
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Venkataraman KNK
+  pic: 2
+  position: President
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Vaishnavi Venkat
+  pic: 3
+  position: Advisor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Vathsavi Venkat
+  pic: 4
+  position: Advisor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 
 # Gems
 gems:

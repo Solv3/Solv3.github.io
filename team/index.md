@@ -1,8 +1,13 @@
 ---
-layout: project
+layout: page
 title: Our team
 excerpt: ""
 comments: false
 ---
+<body>
+{% include team.html %}
+</body>
 
-## List of team members and pictures
+<body>
+{% include social-links.html %}
+</body>
