@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Solv3
+title: Solv3 Consulting Private Limited
 tags: [about, Solv3]
 date: 2016-09-25
 comments: false

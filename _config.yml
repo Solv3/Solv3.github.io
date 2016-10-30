@@ -37,7 +37,7 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              info@solv3.co.in
 twitter:            Solv3Consulting
 facebook:           Solv3Consulting
 github:             Solv3
@@ -66,12 +66,8 @@ people:
   pic: 1
   position: Chairman & Managing Director
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/lakshmivenkat2003
 
 - name: Venkataraman KNK
   pic: 2
@@ -80,7 +76,7 @@ people:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/venkataraman.knk
     - title: linkedin
       url: #
 
@@ -88,23 +84,15 @@ people:
   pic: 3
   position: Advisor
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/vaishnavi.venkat.5
 
 - name: Vathsavi Venkat
   pic: 4
   position: Advisor
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/Vathsavi
 
 # Gems
 gems:

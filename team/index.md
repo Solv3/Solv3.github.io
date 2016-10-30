@@ -8,6 +8,3 @@ comments: false
 {% include team.html %}
 </body>
 
-<body>
-{% include social-links.html %}
-</body>
